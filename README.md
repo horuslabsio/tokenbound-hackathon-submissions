@@ -1,25 +1,45 @@
-## 1. Unix Submission
+## 2. Boundless Tokens
 
-Unix Tokenbound Multi-Chain manager
+Boundless tokens is a here to give you endless possibilities n the NFT World.
 
 ### Brief Description
 
-Unix is a decentralized application designed to streamline the management and tracking of token-bound accounts across multiple blockchain networks, offering a comprehensive multi-chain solution. By utilizing Unix, users can efficiently oversee all their token-bound accounts, perform token swaps, create new token-bound accounts, and bridge tokens across various chains. Unix simplifies the complexities of managing multiple token-bound accounts within decentralized autonomous organizations (DAOs) and governance systems by providing a unified platform. Key features include a single interface for account management across different chains, support for all types of token swaps, seamless creation of token-bound accounts, and efficient token bridging. This unification not only enhances efficiency but also minimizes errors, ultimately saving users time and effort.
+With Boundless Tokens, users can acquire NFTs from a curated list from the Starknet ecosystem and transform them into token-bound accounts as well as associating them with specific tokens or NFTs. These accounts can have unique features, permissions, and behaviors based on the tokens they hold. For example, an account bound to a governance token may have voting rights, while an account bound to an NFT could grant access to exclusive content or experiences.
 
-### Project Link
+#### The Video
+- Here is a video attached on how to navigate [boundless tokens platform](https://drive.google.com/file/d/1vw00b8R8kBSxmDLKXWmeZq13u3oq0SPW/view?usp=sharing)
 
-<https://unix-tba.vercel.app/>
+#### Project Category
+- Social/Defi
 
-### Project codebase
+## Getting Started
 
-<https://github.com/orgs/Unix-TBA/repositories>
+### Clone repository
+```bash
+https://github.com/kaksv/Boundless-tokens.git
+```
 
-### Project Video
+### Change directory to project
+```bash
+cd src
+```
 
-<https://youtu.be/wul9PUil9uw?si=IlmqTJV0xfvlGLxm>
+### Install Dependencies
+```bash
+yarn install
+```
 
-### Project Overview
 
-<https://docs.google.com/document/d/1D9OvGSTJS7_cgFaOmPP-OLZvZWsGxxYyrBWGesC_hhU/edit>
 
-<hr />
+### Run project
+```bash
+yarn dev
+```
+
+### Explorer Preview
+*Explorer Preview.*
+![preview](https://github.com/user-attachments/assets/7cd16c38-854f-4a65-af06-fc016583cb69)
+
+
+### Github Repository
+For those interested in contributing? Find the  [github repository here](https://github.com/kaksv/Boundless-tokens.git)
