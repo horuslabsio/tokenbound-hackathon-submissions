@@ -26,7 +26,7 @@ Unix is a decentralized application designed to streamline the management and tr
 
 ## 2. Token Giver Submission 
 
-Token Giver Fundraising Platform
+Token Giver Fundraising Platform: Trnsformig charity with blockchain technology 
 
 ### Brief Description
 
@@ -36,10 +36,16 @@ Token Giver is a decentralized application designed to revolutionize charity and
 
 <https://token-giver-7u11.vercel.app/>
 
+### Project codebase
+
+<https://github.com/Token-Giver/token-giver>
+
 ### Project Video
+
 <>
 
 ### Project Overview
+
 <https://docs.google.com/document/d/1xT9IyV4kp92XVYEMTJlJiJd7VHPq2YmLZcR0mybOWxo/>
 
 <hr/>
