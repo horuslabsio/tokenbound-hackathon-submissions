@@ -10,6 +10,9 @@ Here's a sample submission:
 ### Brief Description
 Sample Submission aims to guide hackathon participants through how they can submit their projects for judging.
 
+### Project Category
+SocialFi/DeFi/Gaming
+
 ### Project Link
 https://samplesubmission.com
 
