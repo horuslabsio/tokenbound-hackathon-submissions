@@ -6,6 +6,9 @@ Boundless tokens is a here to give you endless possibilities n the NFT World.
 
 With Boundless Tokens, users can acquire NFTs from a curated list from the Starknet ecosystem and transform them into token-bound accounts as well as associating them with specific tokens or NFTs. These accounts can have unique features, permissions, and behaviors based on the tokens they hold. For example, an account bound to a governance token may have voting rights, while an account bound to an NFT could grant access to exclusive content or experiences.
 
+### The Project
+You can directly access boundless tokens from this [boundless platform](https://boundlesstokens-36s1.vercel.app/)
+
 #### The Video
 - Here is a video attached on how to navigate [boundless tokens platform](https://drive.google.com/file/d/1vw00b8R8kBSxmDLKXWmeZq13u3oq0SPW/view?usp=sharing)
 
