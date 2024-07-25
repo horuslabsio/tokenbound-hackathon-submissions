@@ -23,3 +23,23 @@ Unix is a decentralized application designed to streamline the management and tr
 <https://docs.google.com/document/d/1D9OvGSTJS7_cgFaOmPP-OLZvZWsGxxYyrBWGesC_hhU/edit>
 
 <hr />
+
+## 2. Token Giver Submission 
+
+Token Giver Fundraising Platform
+
+### Brief Description
+
+Token Giver is a decentralized application designed to revolutionize charity and fundraising. With Token Giver, users can create and manage campaigns by minting unique campaign NFTs, which have Token Bound Accounts (TBA) deployed on them automatically. This enables seamless and secure donations using STRK tokens.
+
+### Project Link
+
+<https://token-giver-7u11.vercel.app/>
+
+### Project Video
+<>
+
+### Project Overview
+<https://docs.google.com/document/d/1xT9IyV4kp92XVYEMTJlJiJd7VHPq2YmLZcR0mybOWxo/>
+
+<hr/>
