@@ -1,26 +1,25 @@
-## 1. Unix Submission
 
-Unix Tokenbound Multi-Chain manager
+# Submissions for the tokenbound hackathon
+
+All participants of the hackathon are expected to submit their projects on or before 25th July. To make your submissions, the team lead is expected to open a PR to this repository, creating a new readme file with your team name and with links to your project submission details.
+
+Here's a sample submission:
+
+## Sample Submission by The Winning Team
 
 ### Brief Description
+Sample Submission aims to guide hackathon participants through how they can submit their projects for judging.
 
-Unix is a decentralized application designed to streamline the management and tracking of token-bound accounts across multiple blockchain networks, offering a comprehensive multi-chain solution. By utilizing Unix, users can efficiently oversee all their token-bound accounts, perform token swaps, create new token-bound accounts, and bridge tokens across various chains. Unix simplifies the complexities of managing multiple token-bound accounts within decentralized autonomous organizations (DAOs) and governance systems by providing a unified platform. Key features include a single interface for account management across different chains, support for all types of token swaps, seamless creation of token-bound accounts, and efficient token bridging. This unification not only enhances efficiency but also minimizes errors, ultimately saving users time and effort.
+### Project Category
+SocialFi/DeFi/Gaming
 
 ### Project Link
-
-<https://unix-tba.vercel.app/>
+https://samplesubmission.com
 
 ### Project codebase
-
-<https://github.com/orgs/Unix-TBA/repositories>
+https://github.com/samplesubmission
 
 ### Project Video
+Link to loom/youtube if any
 
-<https://youtu.be/wul9PUil9uw?si=IlmqTJV0xfvlGLxm>
-
-### Project Overview
-
-<https://docs.google.com/document/d/1D9OvGSTJS7_cgFaOmPP-OLZvZWsGxxYyrBWGesC_hhU/edit>
-
-<hr />
-
+     
