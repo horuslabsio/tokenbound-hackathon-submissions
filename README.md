@@ -29,7 +29,7 @@ Unix is a decentralized application designed to streamline the management and tr
 
 ## 2. Token Giver Submission 
 
-Token Giver Fundraising Platform: Trnsformig charity with blockchain technology 
+Token Giver Fundraising Platform: Transformig charity with blockchain technology 
 
 ### Brief Description
 
