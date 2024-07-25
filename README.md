@@ -42,7 +42,7 @@ Token Giver is a decentralized application designed to revolutionize charity and
 
 ### Project Video
 
-<>
+<https://youtu.be/30afZ-SuDrw>
 
 ### Project Overview
 
