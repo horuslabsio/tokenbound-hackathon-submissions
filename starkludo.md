@@ -1,7 +1,6 @@
 
 ## StarkLudo
-
-Token Giver Fundraising Platform: Transformig charity with blockchain technology 
+Ludo on Starknet
 
 ### Brief Description
 
@@ -13,18 +12,11 @@ Gaming
 
 ### Project Link
 
-<https://token-giver-7u11.vercel.app/>
+<https://github.com/princeibs/starkludo>
 
 ### Project codebase
 
-<https://github.com/Token-Giver/token-giver>
+<https://github.com/princeibs/starkludo>
 
-### Project Video
-
-<https://youtu.be/30afZ-SuDrw>
-
-### Project Overview
-
-<https://docs.google.com/document/d/1xT9IyV4kp92XVYEMTJlJiJd7VHPq2YmLZcR0mybOWxo/>
 
 <hr/>
