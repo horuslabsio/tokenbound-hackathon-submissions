@@ -38,7 +38,7 @@ yarn dev
 
 ### Explorer Preview
 *Explorer Preview.*
-![Local Image](/public/preview.png)
+![Local Image](https://drive.google.com/file/d/1IHOBRyeTv7DpS6PLPFEM-ucQmPS3r899/view?usp=drive_link)
 
 
 ### Github Repository
